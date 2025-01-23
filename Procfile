@@ -1,1 +1,1 @@
-worker: main.py
+worker: Opora32/main.py
